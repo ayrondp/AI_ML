@@ -17,7 +17,7 @@ priceToBook 4.4350734
 
 ![Screenshot](plot_WEX.png)  
 
-##
+##  
 
 shortName Tesla, Inc.  
 sector Consumer Cyclical  
@@ -34,6 +34,10 @@ returnOnEquity 0.12275
 freeCashflow 4.496.875.008  
 priceToBook 28.20407  
 
+![Screenshot](plot_TSLA.png) 
+
+##  
+
 shortName Pfizer, Inc.  
 sector Healthcare  
 financialCurrency USD  
@@ -48,6 +52,10 @@ beta 0.67079
 returnOnEquity None  
 freeCashflow None  
 priceToBook 3.6484063  
+
+![Screenshot](plot_PFE.png) 
+
+##
 
 shortName Petroleo Brasileiro S.A.- Petro  
 sector Energy  
@@ -64,6 +72,10 @@ returnOnEquity 0.20622998
 freeCashflow 89.936.502.784  
 priceToBook 0.23037542  
 
+![Screenshot](plot_PBR.png) 
+
+##
+
 shortName International Business Machines  
 sector Technology  
 financialCurrency USD  
@@ -78,3 +90,5 @@ beta 1.216245
 returnOnEquity 0.24530001  
 freeCashflow 13.636.625.408  
 priceToBook 5.856414  
+
+![Screenshot](plot_IBM.png) 
