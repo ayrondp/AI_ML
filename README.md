@@ -17,6 +17,8 @@ priceToBook 4.4350734
 
 ![Screenshot](plot_WEX.png)  
 
+##
+
 shortName Tesla, Inc.  
 sector Consumer Cyclical  
 financialCurrency USD  
