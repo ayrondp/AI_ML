@@ -1,4 +1,4 @@
-# Playing with AI/ML and Stock Price Prediction
+# Playing with AI/ML RNN and Stock Price Prediction
 
 shortName WEX Inc.  
 sector Technology  
